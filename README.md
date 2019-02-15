@@ -9,3 +9,12 @@ http://jonathongarrett.com/fund_me
 |  Kickstarter  |     ec2-3-17-180-249.us-east-2.compute.amazonaws.com:8080/Kickstarter     |
 |   Indiegogo   |     ec2-3-17-180-249.us-east-2.compute.amazonaws.com:8080/Indiegogo       |
 
+
+##User
+POST request to endpoint /User for creating a new user document.
+<code>
+  {
+    username,
+    password
+  }
+</code>
