@@ -21,7 +21,7 @@ Fund Me Comparison server is powered by the following,
 |   Indiegogo   |     ec2-3-17-180-249.us-east-2.compute.amazonaws.com:8080/Indiegogo       |
 
 
-##User
+## User
 POST request to endpoint /User for creating a new user document.
 It accepts the following body.
 ```
@@ -29,7 +29,7 @@ It accepts the following body.
     password
 ```
 
-##Login
+## Login
 POST request to endpoint /Login for fetching a users auth token.
 It accepts the following body.
 ```
@@ -37,7 +37,7 @@ It accepts the following body.
     password
 ```
 
-##Query
+## Query
 POST request to endpoint /Query for creating a new query suggestion.
 It accepts the following body.
 ```
@@ -45,7 +45,7 @@ It accepts the following body.
     description
 ```
 
-##Kickstarter
+## Kickstarter
 GET request to endpoint /Kickstarter for fetching Kicktarter data
 It accepts the following parameters.
 ```
@@ -53,7 +53,7 @@ It accepts the following parameters.
 ```
 Value is the selected category (will be changing to category later)
 
-##Indiegogo
+## Indiegogo
 GET request to endpoint /Indiegogo for fetching Indiegogo data
 It accepts the following parameters.
 ```
