@@ -1,7 +1,7 @@
 ## Fund Me Comparisons
 http://jonathongarrett.com/fund_me
 
-##Tech Stack
+## Tech Stack
 Fund Me Comparison server is powered by the following,
 * Node
 * Express
