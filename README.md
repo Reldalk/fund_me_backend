@@ -13,9 +13,9 @@ http://jonathongarrett.com/fund_me
 ##User
 POST request to endpoint /User for creating a new user document.
 <code>{
-  username,  
-  password,  
-  firstName, // optional  
-  lastName // optional  
+  username,<br/>
+  password,<br/>
+  firstName, // optional<br/>
+  lastName // optional<br/>
 }
 </code>
